@@ -1,1 +1,1 @@
-# swannos-manifesto
+# SwannOS: Local-First Intelligence
