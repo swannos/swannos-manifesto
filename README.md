@@ -1,0 +1,1 @@
+# swannos-manifesto
